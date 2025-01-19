@@ -54,7 +54,7 @@ export default function Header() {
             </button>
           ) : (
             <button onClick={() => setIsOpen(true)}>
-              <img src={menu}  rel="noreferrer" button img2/>
+              <img src={menu}  rel="noreferrer" alt="button img2"/>
             </button>
           )}
         </div>
