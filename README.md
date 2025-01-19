@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [URL is here]()
-- Live Site URL: [URL is here]()
+- Solution URL: [URL is here](https://github.com/masum-hosen/room-homepage)
+- Live Site URL: [URL is here](https://tiny-chaja-76ad1b.netlify.app/)
 
 ## My process
 
@@ -33,7 +33,6 @@ Users should be able to:
 - Tailwind css
 - [React](https://reactjs.org/) - JS library
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
